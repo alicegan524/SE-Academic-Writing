@@ -1,5 +1,4 @@
-# Academic-Writing
-# Academic Paper Log Book
+# Academic Writing Log Book
 
 **Title:** Integrating Software Engineering and Data Engineering Principles in Data Pipeline Development
 
