@@ -9,7 +9,7 @@
 | Date | Student Name | Activity | Keywords Searched | AI Prompts Used |
 |---|---|---|---|---|
 | 26/10/2026 | All members | Reviewed assignment instructions and planned the paper structure. | IEEE short paper format, academic writing | N/A |
-| 26/10/2026| Nor Fatihah Binti Othman | Planned the paper topic and identified the main issues related to data pipeline reliability. | Data pipeline development, software engineering, data engineering | [Insert actual prompt used to develop the paper topic] |
+| 26/10/2026| Nor Fatihah Binti Othman | Planned the paper topic and identified the main issues related to data pipeline reliability. | Data pipeline development, software engineering, data engineering | N/A |
 | 28/10/2026| Nor Fatihah Binti Othman | Searched for and selected research articles for the literature review. | Data science pipelines, data pipeline quality, CI/CD practices | Suggest three research objectives and related research questions for my topic|
 | 29/10/2026 | Nor Fatihah Binti Othman | Drafted the introduction and problem statement | Data pipeline reliability, data quality, pipeline maintainability |Suggest problem statement related to my topic|
 | 29/10/2026 | Nor Fatihah Binti Othman | Developed the research objectives and research questions related | Research objectives, research questions, automated testing, data validation | Suggest three research objectives and related research questions for my topic. |
