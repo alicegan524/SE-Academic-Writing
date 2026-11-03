@@ -30,8 +30,8 @@
 | 1 | Biswas, Wardat and Rajan (2022) | The art and practice of data science pipelines | https://doi.org/10.1145/3510003.3510057 |
 | 2 | Fluri, Gall and Giger (2024) | CI/CD practices in database application development: Challenges and opportunities | https://doi.org/10.1016/j.jss.2023.111890 |
 | 3 | Foidl et al. (2024) | Data pipeline quality: Influencing factors, root causes of data-related issues, and processing problem areas for developers | https://doi.org/10.1016/j.jss.2023.111855 |
-| 4 | Kitchenham and Charters (2007) | Guidelines for conducting systematic literature reviews in software engineering | [Technical Report](https://www.google.com/search?q=Kitchenham+Charters+2007+EBSE-2007-01) |
-| 5 | Patel et al. (2024) | Automated testing of Nextflow pipelines using NFTest | [DOI](https://doi.org/10.1093/bioinformatics/btae081) |
-| 6 | Shahin, Babar and Zhu (2017) | Systematic review of continuous integration, delivery and deployment practices | [DOI](https://doi.org/10.1109/ACCESS.2017.2685629) |
-| 7 | Vianna et al. (2023) | Testing data stream processing applications | [DOI](https://doi.org/10.1016/j.infsof.2022.107120) |
+| 4 | Kitchenham and Charters (2007) | Guidelines for conducting systematic literature reviews in software engineering | https://www.google.com/search?q=Kitchenham+Charters+2007+EBSE-2007-01) |
+| 5 | Patel et al. (2024) | Automated testing of Nextflow pipelines using NFTest | https://doi.org/10.1093/bioinformatics/btae081|
+| 6 | Shahin, Babar and Zhu (2017) | Systematic review of continuous integration, delivery and deployment practices | https://doi.org/10.1109/ACCESS.2017.2685629 |
+| 7 | Vianna et al. (2023) | Testing data stream processing applications |https://doi.org/10.1016/j.infsof.2022.107120 |
 
