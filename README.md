@@ -1,7 +1,7 @@
-# SE-Academic-Writing
+# Academic-Writing
 # Academic Paper Log Book
 
-**Paper Title:** Integrating Software Engineering and Data Engineering Principles in Data Pipeline Development
+**Title:** Integrating Software Engineering and Data Engineering Principles in Data Pipeline Development
 
 **Course:** SECP3204 – Software Engineering
 
@@ -9,7 +9,7 @@
 
 | Date | Student Name | Activity | Keywords Searched | AI Prompts Used |
 |---|---|---|---|---|
-| 26/10/2026 | [All members] | Reviewed assignment instructions and planned the paper structure. | IEEE short paper format, academic writing | [Insert actual AI prompt used] |
+| 26/10/2026 | All members | Reviewed assignment instructions and planned the paper structure. | IEEE short paper format, academic writing | [Insert actual AI prompt used] |
 | [Date] | [Name] | Searched for research articles related to the topic. | Data science pipelines, data pipeline quality, CI/CD database applications | [Insert actual AI prompt used] |
 | [Date] | [Name] | Selected three research articles for the literature review. | Data pipeline development, pipeline quality, CI/CD practices | [Insert actual AI prompt used] |
 | [Date] | [Name] | Reviewed the selected articles and identified relevant findings. | Software engineering, data engineering, pipeline reliability | [Insert actual AI prompt used] |
